@@ -18,3 +18,7 @@ This tool is for educational purposes only.
 **Other Tools:** telegram: https://t.me/toolsocial
 
 **Contact:** telegram: https://t.me/pinkblau
+
+### Video
+
+[https://www.youtube.com/watch?v=AzoiExYcQTs&t=2s](https://www.youtube.com/watch?v=wZeAzaczETE)
