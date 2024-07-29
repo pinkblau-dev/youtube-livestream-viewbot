@@ -5,6 +5,9 @@
 - Proxy Usage.
 - Multi Live View Sending.
 - Multi Thread View Sending.
+- Web UI Management Panel.
+- Flask API Integration.
+
 
 
 
