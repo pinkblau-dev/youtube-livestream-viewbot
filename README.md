@@ -21,4 +21,4 @@ This tool is for educational purposes only.
 
 ### Video
 
-[https://www.youtube.com/watch?v=AzoiExYcQTs&t=2s](https://www.youtube.com/watch?v=wZeAzaczETE)
+https://www.youtube.com/watch?v=wZeAzaczETE
